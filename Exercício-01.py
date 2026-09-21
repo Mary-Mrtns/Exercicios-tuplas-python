@@ -1,8 +1,5 @@
 #Exercícios de Tuplas — Python
 
-from collections import namedtuple
-import math
-
 # EXERCÍCIO 1 — BÁSICO
 
 print("---Exercício 01---")
