@@ -1,4 +1,4 @@
-# Exercícios de Tuplas em Python
+# Exercícios de Tuplas em Python - in progress
 
 ## Sobre mim
 
