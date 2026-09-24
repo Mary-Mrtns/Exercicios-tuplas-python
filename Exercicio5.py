@@ -3,7 +3,7 @@
 from collections import namedtuple
 import math
 
-print("=== Exercício 05 ===")
+print("=== Exercício 5 ===")
 
 Stats = namedtuple("Stats", "media mediana minimo maximo desvio_padrao")
 

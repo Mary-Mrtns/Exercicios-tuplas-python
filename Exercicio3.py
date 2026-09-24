@@ -1,7 +1,7 @@
 # Exercício 3 — Tupla vs. Lista
 # Para cada situação, justifique se usaria tupla ou lista.
 
-print("=== Exercício 03 ===")
+print("=== Exercício 3 ===")
 
 resposta_ex03 = """
 a) Notas de uma turma que pode crescer -> LISTA

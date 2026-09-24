@@ -2,7 +2,7 @@
 
 from collections import namedtuple
 
-print("=== Exercício 04 ===")
+print("=== Exercício 4 ===")
 
 # a) Criar named tuple e instanciar 3 produtos
 Produto = namedtuple("Produto", "nome preco estoque categoria")

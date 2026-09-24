@@ -1,6 +1,6 @@
 # Exercício 2 — Desempacotamento
 
-print("=== Exercício 02 ===")
+print("=== Exercício 2 ===")
 
 # a) Desempacotar tupla simples
 dados = ("Ana Silva", 25, "Python", 9.5)

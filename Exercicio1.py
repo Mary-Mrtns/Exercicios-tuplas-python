@@ -1,8 +1,8 @@
 #Exercícios de Tuplas — Python
 
-# EXERCÍCIO 1 — BÁSICO
+# Exercício 1 — BÁSICO
 
-print("---Exercício 01---")
+print("---Exercício 1---")
 
 # a) Criar tupla e acessar elementos
 estacoes = ("Primavera", "Verão", "Outono", "Inverno")
