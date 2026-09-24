@@ -20,3 +20,17 @@ print("\nb) produto acima de R$100:", caros)
 
 valores_totais = [(p.nome, p.preco * p.estoque) for p in produtos]
 print("b) valor total por produto:", valores_totais)
+
+mais_caro = max(produtos, key=lambda p: p.preco)
+print("b) produto mais caro:", mais_caro)
+
+# c) Named tuple para o Dungeon Quest
+Habilidade = namedtuple("Habilidade", "nome descricao custo_mp dano")
+
+habilidade_guerreiro = Habilidade("Golpe Poderoso","Um ataque físico pesado", 10, 25)
+habilidade_mago = Habilidade("Bola de fogo", "Ataque mágico de fogo em área", 20, 35)
+habilidade_arqueiro = Habilidade("Tiro Certeiro", "Flecha precisa com bônus de crítico", 15, 20)
+
+print("\nc)", habilidade_guerreiro)
+print("c)", habilidade_mago)
+print("c)", habilidade_arqueiro)

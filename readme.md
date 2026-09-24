@@ -1,4 +1,4 @@
-# Exercícios de Tuplas em Python - in progress
+# Exercícios de Tuplas em Python
 
 ## Sobre mim
 
@@ -6,23 +6,27 @@ Sou Mariany (Mary), estudante de Engenharia de Software na ULBRA. Este repositó
 
 ## Por que estou postando isso
 
-Este repositório reúne exercícios que resolvi enquanto estudava **tuplas em Python**, atividade da disciplina de **Laboratório de Programação em Python**, do 2º semestre da minha faculdade — desde os conceitos básicos (criação, imutabilidade) até tópicos mais avançados como desempacotamento, `namedtuple` e cálculo de estatísticas manualmente. Estou documentando aqui como parte do meu processo de aprendizado e para deixar registrado no meu portfólio o que venho estudando em Engenharia de Software.
+Este repositório reúne exercícios que resolvi enquanto estudava **tuplas em Python**, atividade da disciplina de **Laboratório de Programação em Python**, do 2º semestre da minha faculdade, desde os conceitos básicos (criação, imutabilidade) até tópicos mais avançados como desempacotamento, `namedtuple` e cálculo de estatísticas manualmente. Estou documentando aqui como parte do meu processo de aprendizado e para deixar registrado no meu portfólio o que venho estudando em Engenharia de Software.
 
-## ▶️ Como usar
+## Como usar
 
 1. Clone este repositório:
    ```bash
-   git clone <link>
+   git clone <link-do-seu-repositorio>
    ```
 2. Entre na pasta do projeto:
    ```bash
    cd nome-da-pasta
    ```
-3. Execute o arquivo com Python 3 instalado:
+3. Execute o arquivo do exercício que quiser ver, com Python 3 instalado:
    ```bash
-   python3 exercicios_tuplas.py
+   python3 exercicio1.py
+   python3 exercicio2.py
+   python3 exercicio3.py
+   python3 exercicio4.py
+   python3 exercicio5.py
    ```
-4. As respostas de cada exercício serão exibidas no terminal, organizadas por seção.
+4. Cada arquivo exibe no terminal as respostas do exercício correspondente.
 
 > Não é necessário instalar nenhuma biblioteca externa — o código usa apenas recursos nativos do Python (`collections.namedtuple` e `math`).
 
@@ -86,3 +90,6 @@ desvio = sqrt(sum((x - media)**2 for x in dados) / len(dados))
 ```
 
 ---
+
+📁 O código com as resoluções está dividido em um arquivo por exercício:
+[`exercicio1.py`](./exercicio1.py) · [`exercicio2.py`](./exercicio2.py) · [`exercicio3.py`](./exercicio3.py) · [`exercicio4.py`](./exercicio4.py) · [`exercicio5.py`](./exercicio5.py)
