@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-Sou Mariany (Mary), estudante de Engenharia de Software na ULBRA. Este repositório é parte do meu portfólio, onde documento os projetos e exercícios que vou desenvolvendo ao longo do curso.
+Sou Mariany, estudante de Engenharia de Software na ULBRA. Este repositório é parte do meu portfólio, onde documento os projetos e exercícios que vou desenvolvendo ao longo do curso.
 
 ## Por que estou postando isso
 
